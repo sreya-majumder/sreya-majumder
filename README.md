@@ -1,4 +1,4 @@
-
+### Sreya Majumder
 
 # 💫 About Me:
 - 👋 Hi, I’m  Sreya Majumder<br>- 👀 I’m interested in Artificial Intelligence and Machine Leaning<br>- 🌱 I’m currently learning Machine Learning<br>
