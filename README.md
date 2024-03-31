@@ -1,7 +1,13 @@
-### Sreya Majumder
+# My GitHub Profile
+
+<p align="center">
+  <b>Sreya Majumder</b><br>
+  CSE Student | Learner 
+</p>
+
 
 # 💫 About Me:
-- 👋 Hi, I’m  Sreya Majumder<br>- 👀 I’m interested in Artificial Intelligence and Machine Leaning<br>- 🌱 I’m currently learning Machine Learning<br>
+-👋 Hi, I’m  Sreya Majumder<br>- 👀 I’m interested in Artificial Intelligence and Machine Leaning<br>- 🌱 I’m currently learning Machine Learning<br>
 
 
 # 💻 Tech Stack:
