@@ -1,9 +1,9 @@
-# My GitHub Profile
 
-<p align="center">
-  <b>Sreya Majumder</b><br>
-  CSE Student | Learner 
-</p>
+<div align="center">
+  <b style="font-size: 36px;">Sreya Majumder</b><br>
+  Undergraduate CSE Student | Learner 
+</div>
+<br>
 
 
 # 💫 About Me:
