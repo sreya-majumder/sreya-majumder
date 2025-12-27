@@ -1,7 +1,7 @@
 
 <div align="center">
   <b style="font-size: 1000px;">Sreya Majumder</b><br>
-  Undergraduate CSE Student | Learner 
+  CSE Graduate | Learner 
 </div>
 <br>
 
